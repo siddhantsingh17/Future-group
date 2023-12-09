@@ -37,3 +37,17 @@ a{
 .carousel-caption p{
     font-size: 23px;
 }
+
+.heading{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    margin-top: 5%;
+}
+
+.paragraph{
+    font-size: 30px;
+    font-family: 'Franklin Gothic small', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font: 300;
+}
