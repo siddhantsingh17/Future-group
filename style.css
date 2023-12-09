@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.navbar-brand img{
+    width: 100%;
+}
+
+.nav-link{
+    font-size: 25px;
+    padding: 30px 25px !important;
+}
